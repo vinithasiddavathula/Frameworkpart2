@@ -9,6 +9,7 @@ public class Validationdemo {
 		softassert.assertEquals(num, num2);
 		
 		System.out.println("Git tets");
+		System.out.println("person2 test");
 		
 	}
 
