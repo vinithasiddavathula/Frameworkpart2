@@ -8,6 +8,8 @@ public class Validationdemo {
 		SoftAssert softassert = new SoftAssert();
 		softassert.assertEquals(num, num2);
 		
+		System.out.println("Git tets");
+		
 	}
 
 }
